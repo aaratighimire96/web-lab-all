@@ -1,7 +1,0 @@
-fastapi
-uvicorn
-databases
-sqlalchemy
-passlib
-bcrypt==4.0.1
-aiosqlite
